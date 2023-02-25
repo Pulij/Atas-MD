@@ -305,10 +305,8 @@ Note: If you don't pre-install these plugins before CMD / VS code Installation b
 
 
 
-<h2 align="center">🔰 Meet Team Atlas 🔰
+<h2 align="center">🔰 Создатели Atlas 🔰
 </h2>
 
-[![Fantox](https://github.com/FantoX001.png)](https://github.com/FantoX001)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
-----|----|----|----|----|----
-[FantoX](https://github.com/FantoX001)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops)
-Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer, Modules | Designing, API Maintainer | Ideas, Testing, Re-Checking | Ideas, Testing, Re-Checking
+![Fantox](https://github.com/Pulij.png)
+ [Воробушек](https://github.com/Pulij)

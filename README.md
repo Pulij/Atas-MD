@@ -4,35 +4,16 @@
 <p align="center"> 
 <b>Бот Модератор WhatsApp созданный Pulij(Воробушек) <a href="https://github.com/Pulij">Воробушек</a>
 
-<h3 align="center"> Atlas MD - The Future Is Here
+<h3 align="center"> Atlas MD - Будущее здесь
 </h4>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/FantoX001/Atlas-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Atlas-MD?label=Fork&style=social">
-    
-    
-  <a href="https://github.com/FantoX001/Atlas-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Atlas-MD?style=social">
-  </a>
-
-<br>
-
-<a href="https://github.com/FantoX001/Atlas-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Atlas-MD.visitor-badge&left_text=Total%20People%20Visited">
-  </a>
-  <br><br>
   
       
- 
-<h4 align="center"> Deploy on Repl.it - ( YouTube Tutorial Included & Highly Recommended )
+<h4 align="center"> Развернуть  на Repl.it - ( YouTube Tutorial Included & Highly Recommended )
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/FantoX001/Atlas-MD">
-    <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
+    <a href="https://repl.it/github/Pulij/Atlas-MD">
+    <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Развернуть на Heroku" >
     </a>
     <br>     
     <a href="https://youtu.be/R-_DU73UH8Q"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
@@ -47,7 +28,7 @@
       
       
       
-<h4 align="center"> Deploy on Railway - ( YouTube Tutorial Included )
+<h4 align="center"> Развернуть на Railway - ( YouTube Tutorial Included )
 </h4>
   
 <p align="center">
@@ -71,7 +52,7 @@
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/Pulij/atlas-md:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
+    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/Pulij/atlas-md:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=Pulij&&env[MODS]=79040251094&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=DK-Empire&&env[AUTHOR]=Воробушек&&name=atlas">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    <br>     
@@ -88,13 +69,13 @@
 
 <br>
  <!--   
-<h4 align="center"> Deploy on Heroku ( Isn't Working it will be fixed soon ! )
+<h4 align="center"> Развернуть на Heroku ( Isn't Working it will be fixed soon ! )
 </h4>
 
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/FantoX001/Atlas-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/Pulij/Atlas-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -105,7 +86,7 @@ https://youtu.be/R-_DU73UH8Q
 
 
 <br>
-<h4 align="center"> Facing Trouble? Join my WhatsApp Group for Support.
+<h4 align="center"> Проблемы?Присоединяйся к моей группе WhatsApp и я помогу тебе.
 </h4>
 
 <p align="center" >
@@ -121,7 +102,7 @@ https://youtu.be/R-_DU73UH8Q
 </p>  
 <br>
 
-<h2 align="center">⚡️ Atlas MD Platform Compatibility ⚡️
+<h2 align="center">⚡️ Atlas MD Какой Сервер лучше? ⚡️
 </h2>
 
 - Atlas offers highest platform compatibility.

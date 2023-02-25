@@ -52,7 +52,8 @@
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/Pulij/atlas-md:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=Pulij&&env[MODS]=79040251094&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=DK-Empire&&env[AUTHOR]=Воробушек&&name=atlas">
+    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/Pulij/atlas-md:main&env[PORT]=8000&env[PREFIX]=.
+&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=Pulij&&env[MODS]=79040251094&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=DK-Empire&&env[AUTHOR]=Воробушек&&name=atlas">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    <br>     
